@@ -29,4 +29,10 @@ public class DavidPellejeroVideojuegos {
 	public String getNombreUsuario() {
 		return this.nombreUsuario;
 	}
+	private void bucleHobby() {
+		for(int i=0;i<1000;i++) {
+			System.out.println(nombreHobby);
+		}
+		
+	}
 }
