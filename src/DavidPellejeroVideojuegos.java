@@ -22,4 +22,8 @@ public class DavidPellejeroVideojuegos {
 	public int getVida() {
 		return this.vida;
 	}
+	
+	public void setnombreUsuario(String nombreUsuario) {
+		this.nombreUsuario=nombreUsuario;
+	}
 }
