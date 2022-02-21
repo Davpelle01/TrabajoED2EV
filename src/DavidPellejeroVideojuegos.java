@@ -15,4 +15,8 @@ public class DavidPellejeroVideojuegos {
 	public String getNombreHobby() {
 		return this.nombreHobby;
 	}
+	
+	public void setVida(int vida) {
+		this.vida=vida;
+	}
 }
