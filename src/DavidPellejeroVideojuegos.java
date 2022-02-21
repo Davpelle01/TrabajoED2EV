@@ -12,5 +12,7 @@ public class DavidPellejeroVideojuegos {
 	public void setNombreHobby(String nombreHobby) {
 		this.nombreHobby=nombreHobby;
 	}
-	
+	public String getNombreHobby() {
+		return this.nombreHobby;
+	}
 }
