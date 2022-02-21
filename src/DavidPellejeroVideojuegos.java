@@ -19,4 +19,7 @@ public class DavidPellejeroVideojuegos {
 	public void setVida(int vida) {
 		this.vida=vida;
 	}
+	public int getVida() {
+		return this.vida;
+	}
 }
